@@ -9,4 +9,4 @@ We would like you to create a new Powershell module and make it available for pu
 3. Write to the console all film titles and list all planet names in each film that have an episodeId greater than 3.
 4. Return a new json file (in json format) that contains the new data structure.
 
-(Bonus Points) Ensure that your module definition is valid using 'Test-ModuleManifest' 
+(Bonus Points) Ensure that your module definition is valid using 'Test-ModuleManifest'. 
