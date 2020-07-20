@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Alderaan",
+        "diameter": 12500,
+        "films": [
+            {
+                "title": "A New Hope",
+                "episodeId": 4,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Yavin IV",
+        "diameter": 10200,
+        "films": [
+            {
+                "title": "A New Hope",
+                "episodeId": 4,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Hoth",
+        "diameter": 7200,
+        "films": [
+            {
+                "title": "A New Hope",
+                "episodeId": 4,
+                "director": "George Lucas"
+            },
+            {
+                "title": "The Empire Strikes Back",
+                "episodeId": 5,
+                "director": "Irvin Kershner"
+            }
+        ]
+    },
+    {
+        "name": "Dagobah",
+        "diameter": 8900,
+        "films": [
+            {
+                "title": "A New Hope",
+                "episodeId": 4,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Return of the Jedi",
+                "episodeId": 6,
+                "director": "Richard Marquand"
+            },
+            {
+                "title": "The Empire Strikes Back",
+                "episodeId": 5,
+                "director": "Irvin Kershner"
+            }
+        ]
+    },
+    {
+        "name": "Bespin",
+        "diameter": 118000,
+        "films": [
+            {
+                "title": "The Empire Strikes Back",
+                "episodeId": 5,
+                "director": "Irvin Kershner"
+            }
+        ]
+    },
+    {
+        "name": "Endor",
+        "diameter": 4900,
+        "films": [
+            {
+                "title": "Return of the Jedi",
+                "episodeId": 6,
+                "director": "Richard Marquand"
+            }
+        ]
+    },
+    {
+        "name": "Naboo",
+        "diameter": 12120,
+        "films": [
+            {
+                "title": "Attack of the Clones",
+                "episodeId": 2,
+                "director": "George Lucas"
+            },
+            {
+                "title": "The Phantom Menace",
+                "episodeId": 1,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Return of the Jedi",
+                "episodeId": 6,
+                "director": "Richard Marquand"
+            }
+        ]
+    },
+    {
+        "name": "Coruscant",
+        "diameter": 12240,
+        "films": [
+            {
+                "title": "Attack of the Clones",
+                "episodeId": 2,
+                "director": "George Lucas"
+            },
+            {
+                "title": "The Phantom Menace",
+                "episodeId": 1,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Return of the Jedi",
+                "episodeId": 6,
+                "director": "Richard Marquand"
+            }
+        ]
+    },
+    {
+        "name": "Kamino",
+        "diameter": 19720,
+        "films": [
+            {
+                "title": "Attack of the Clones",
+                "episodeId": 2,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Geonosis",
+        "diameter": 11370,
+        "films": [
+            {
+                "title": "Attack of the Clones",
+                "episodeId": 2,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Utapau",
+        "diameter": 12900,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Mustafar",
+        "diameter": 4200,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Kashyyyk",
+        "diameter": 12765,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Polis Massa",
+        "diameter": 0,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Mygeeto",
+        "diameter": 10088,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Felucia",
+        "diameter": 9100,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Cato Neimoidia",
+        "diameter": 0,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Saleucami",
+        "diameter": 14920,
+        "films": [
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            }
+        ]
+    },
+    {
+        "name": "Ord Mantell",
+        "diameter": 14050,
+        "films": [
+            {
+                "title": "The Empire Strikes Back",
+                "episodeId": 5,
+                "director": "Irvin Kershner"
+            }
+        ]
+    },
+    {
+        "name": "Tatooine",
+        "diameter": 10465,
+        "films": [
+            {
+                "title": "A New Hope",
+                "episodeId": 4,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Attack of the Clones",
+                "episodeId": 2,
+                "director": "George Lucas"
+            },
+            {
+                "title": "The Phantom Menace",
+                "episodeId": 1,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Revenge of the Sith",
+                "episodeId": 3,
+                "director": "George Lucas"
+            },
+            {
+                "title": "Return of the Jedi",
+                "episodeId": 6,
+                "director": "Richard Marquand"
+            }
+        ]
+    },
+    {
+        "name": "Jakku",
+        "diameter": null,
+        "films": [
+            {
+                "title": "The Force Awakens",
+                "episodeId": 7,
+                "director": "J. J. Abrams"
+            }
+        ]
+    }
+]
